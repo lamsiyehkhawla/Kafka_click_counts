@@ -29,14 +29,15 @@ This is a simple project that tracks user clicks through a web page and sends th
 ```bash
 git clone https://github.com/yourusername/click-tracker.git
 cd click-tracker
-
+```
 ### 2. Start Kafka & Zookeeper with Docker
-
+```bash
 docker-compose up -d
+```
 ### 3. Run the Spring Boot Application
 .You can use your IDE (IntelliJ, Eclipse, etc.) or the terminal:
 
 ```bash
 ./mvnw spring-boot:run
-
+```
 Author : Lamsiyeh Khawla
