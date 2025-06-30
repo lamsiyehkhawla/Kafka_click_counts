@@ -1,8 +1,8 @@
-# 🖱️ Click Tracker with Spring Boot & Apache Kafka
+# Click Tracker with Spring Boot & Apache Kafka
 
 This is a simple project that tracks user clicks through a web page and sends those click events to **Apache Kafka** using **Spring Boot**.
 
-## 📸 Overview
+##  Overview
 
 - A webpage with a button.
 - When you click the button, a message is sent to Kafka.
@@ -10,7 +10,7 @@ This is a simple project that tracks user clicks through a web page and sends th
 
 ---
 
-## 🧱 Technologies Used
+##  Technologies Used
 
 - Java 17+
 - Spring Boot
@@ -21,7 +21,7 @@ This is a simple project that tracks user clicks through a web page and sends th
 
 ---
 
-## 🚀 How to Run It
+##  How to Run It
 
 ### 1. Clone the Repository
 
@@ -40,4 +40,4 @@ docker-compose up -d
 ```bash
 ./mvnw spring-boot:run
 ```
-Author : Lamsiyeh Khawla
+### Author : Lamsiyeh Khawla
